@@ -30,6 +30,9 @@ published: true
 ## About type dom
 type dom is my little corner of the internet. It originally started as a blog that I’ve been writing in one iteration after another since 2007. Nowadays, it serves as a way to put down my thoughts about all the little big things in life.
 
++ Built on [Jekyll](https://jekyllrb.com)
+   - Using [dactl](https://github.com/melangue/dactl)
+
 ## Contact Me
 + @typedom
 + typedom AT gmail
