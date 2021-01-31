@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Weather Review 22/3/20'
-tag: weather-reviews
+tags: weather-reviews
 ---
 This post was written for an old version of the blog. It may look a bit odd.
 {: .notice}
